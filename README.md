@@ -113,7 +113,7 @@ This project is a Streamlit-based application designed to convert videos into an
 
 ## Example
 
-You can download an example video file from [here](https://github.com/dineshv17/Gif_generator/raw/master/sample.mov) to test the application.
+You can download an example video file from [here](https://github.com/dineshv17/Gif_generator/blob/main/sample.mp4) to test the application.
 
 ---
 
