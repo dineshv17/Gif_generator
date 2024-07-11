@@ -47,7 +47,7 @@ For more details, check out the code on [GitHub](https://github.com/dineshv17/Gi
 st.header('Upload file')
 uploaded_file = st.file_uploader("Choose a file", type=['mov', 'mp4'])
 st.markdown('''
-[Download sample file](https://github.com/dineshv17/Gif_generator/raw/master/sample.mp4)
+[Download sample file](https://github.com/dineshv17/Gif_generator/blob/main/sample.mp4)
 
 ---''')
 
