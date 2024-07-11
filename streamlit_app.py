@@ -27,7 +27,6 @@ if 'clip_total_frames' not in st.session_state:
 
 st.title('GIF Maker')
 
-## Sidebar with information ##
 st.sidebar.header('Information')
 st.sidebar.markdown('''
 This application is designed to convert a video into animated GIFs using the `moviepy` library. 
