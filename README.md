@@ -96,12 +96,12 @@ This project is a Streamlit-based application designed to convert videos into an
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/gif-maker.git
+    git clone https://github.com/dineshv17/Gif_generator.git
     ```
 
 2. Install the required dependencies:
     ```bash
-    pip install streamlit moviepy pillow numpy
+    pip install streamlit moviepy pillow numpy 
     ```
 
 3. Run the Streamlit app:
@@ -111,7 +111,7 @@ This project is a Streamlit-based application designed to convert videos into an
 
 4. Open your web browser and navigate to `http://localhost:8501` to use the application.
 
-## Example
+## Sample
 
 You can download an example video file from [here](https://github.com/dineshv17/Gif_generator/blob/main/sample.mp4) to test the application.
 
